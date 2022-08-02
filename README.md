@@ -1,4 +1,4 @@
-# EG Courses: Graphical Programming Languages 1
+# EG Courses: Graphical Programming Languages 2
 
 EG Courses are a great opportunity to fully learn the principles of LabVIEW programming. Classes, conducted by certified LabVIEW architects, provide extensive knowledge and develop practical skills in the field of real-time systems, automation test applications, measurement monitoring, broadly understood data acquisition and many other topics related to the construction and maintenance of control systems. The modular structure of the courses allows to adjust their content to the expectations of students.
 
